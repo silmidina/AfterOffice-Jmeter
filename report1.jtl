@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738852585822,1841,POST Log In User,200,OK,Users 1-1,text,true,,1259,312,2,2,https://thinking-tester-contact-list.herokuapp.com/users/login,1841,0,995
+1738852587678,301,POST Add User,201,Created,Users 1-1,text,true,,1278,676,3,3,https://thinking-tester-contact-list.herokuapp.com/users,301,0,0
+1738852587986,307,PATCH Update User,200,OK,Users 1-1,text,true,,874,686,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,307,0,0
+1738852586786,1799,POST Log In User,200,OK,Users 1-2,text,true,,1258,311,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,1799,0,938
+1738852588294,293,GET User Profile,200,OK,Users 1-1,text,true,,874,522,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,293,0,0
+1738852588598,294,POST Add Contact,201,Created,Users 1-1,text,true,,1109,896,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,294,0,0
+1738852588586,308,POST Add User,201,Created,Users 1-2,text,true,,1284,681,4,4,https://thinking-tester-contact-list.herokuapp.com/users,308,0,0
+1738852588893,282,GET Contact List,200,OK,Users 1-1,text,true,,1106,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,282,0,0
+1738852588895,305,PATCH Update User,200,OK,Users 1-2,text,true,,880,690,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,305,0,0
+1738852587757,1650,POST Log In User,200,OK,Users 1-3,text,true,,1271,318,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1650,0,830
+1738852589175,280,GET Contact,200,OK,Users 1-1,text,true,,1106,523,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,279,0,0
+1738852589200,263,GET User Profile,200,OK,Users 1-2,text,true,,880,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,263,0,0
+1738852589408,306,POST Add User,201,Created,Users 1-3,text,true,,1281,675,4,4,https://thinking-tester-contact-list.herokuapp.com/users,306,0,0
+1738852589455,279,DELETE User,200,OK,Users 1-1,,true,,663,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,279,0,0
+1738852589464,280,POST Add Contact,201,Created,Users 1-2,text,true,,1109,896,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,280,0,0
+1738852589715,314,PATCH Update User,200,OK,Users 1-3,text,true,,877,684,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,314,0,0
+1738852589744,307,GET Contact List,200,OK,Users 1-2,text,true,,1106,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1738852590030,299,GET User Profile,200,OK,Users 1-3,text,true,,877,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,298,0,0
+1738852590051,278,GET Contact,200,OK,Users 1-2,text,true,,1106,523,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,278,0,0
+1738852588773,1688,POST Log In User,200,OK,Users 1-4,text,true,,1267,313,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1688,0,941
+1738852590332,302,DELETE User,200,OK,Users 1-2,,true,,663,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,302,0,0
+1738852590330,305,POST Add Contact,201,Created,Users 1-3,text,true,,1110,897,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,305,0,0
+1738852590462,291,POST Add User,201,Created,Users 1-4,text,true,,1280,673,3,3,https://thinking-tester-contact-list.herokuapp.com/users,291,0,0
+1738852590636,307,GET Contact List,200,OK,Users 1-3,text,true,,1111,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,307,0,0
+1738852590768,308,PATCH Update User,200,OK,Users 1-4,text,true,,880,682,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,308,0,0
+1738852590957,305,GET Contact,200,OK,Users 1-3,text,true,,1111,523,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,305,0,0
+1738852591077,259,GET User Profile,200,OK,Users 1-4,text,true,,880,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,259,0,0
+1738852589776,1630,POST Log In User,200,OK,Users 1-5,text,true,,1270,313,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1630,0,860
+1738852591263,305,DELETE User,200,OK,Users 1-3,,true,,667,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,305,0,0
+1738852591337,277,POST Add Contact,201,Created,Users 1-4,text,true,,1105,888,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,277,0,0
+1738852591421,335,POST Add User,201,Created,Users 1-5,text,true,,1284,673,3,3,https://thinking-tester-contact-list.herokuapp.com/users,335,0,0
+1738852591614,275,GET Contact List,200,OK,Users 1-4,text,true,,1090,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,275,0,0
+1738852591757,329,PATCH Update User,200,OK,Users 1-5,text,true,,868,682,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,329,0,0
+1738852591890,277,GET Contact,200,OK,Users 1-4,text,true,,1090,523,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,277,0,0
+1738852592087,316,GET User Profile,200,OK,Users 1-5,text,true,,868,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,316,0,0
+1738852590785,1607,POST Log In User,200,OK,Users 1-6,text,true,,1252,310,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1607,0,805
+1738852592168,280,DELETE User,200,OK,Users 1-4,,true,,655,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,280,0,0
+1738852592405,323,POST Add User,201,Created,Users 1-6,text,true,,1272,673,3,3,https://thinking-tester-contact-list.herokuapp.com/users,323,0,0
+1738852592405,327,POST Add Contact,201,Created,Users 1-5,text,true,,1089,884,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,327,0,0
+1738852592729,316,PATCH Update User,200,OK,Users 1-6,text,true,,876,682,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,316,0,0
+1738852593046,271,GET User Profile,200,OK,Users 1-6,text,true,,876,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,271,0,0
+1738852591785,1606,POST Log In User,200,OK,Users 1-7,text,true,,1267,312,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1606,0,912
+1738852593318,299,POST Add Contact,201,Created,Users 1-6,text,true,,1105,892,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,299,0,0
+1738852592732,886,GET Contact List,200,OK,Users 1-5,text,true,,1094,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,886,0,0
+1738852593392,300,POST Add User,201,Created,Users 1-7,text,true,,1280,673,4,4,https://thinking-tester-contact-list.herokuapp.com/users,300,0,0
+1738852593618,285,GET Contact List,200,OK,Users 1-6,text,true,,1098,522,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts,285,0,0
+1738852593619,295,GET Contact,200,OK,Users 1-5,text,true,,1090,523,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,295,0,0
+1738852593695,301,PATCH Update User,200,OK,Users 1-7,text,true,,872,682,5,5,https://thinking-tester-contact-list.herokuapp.com/users/me,301,0,0
+1738852593908,324,GET Contact,200,OK,Users 1-6,text,true,,1098,523,5,5,https://thinking-tester-contact-list.herokuapp.com/contacts/,324,0,0
+1738852593915,322,DELETE User,200,OK,Users 1-5,,true,,659,595,5,5,https://thinking-tester-contact-list.herokuapp.com/users/me,322,0,0
+1738852593997,262,GET User Profile,200,OK,Users 1-7,text,true,,872,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,262,0,0
+1738852592785,1577,POST Log In User,200,OK,Users 1-8,text,true,,1260,312,4,4,https://thinking-tester-contact-list.herokuapp.com/users/login,1577,0,836
+1738852594233,307,DELETE User,200,OK,Users 1-6,,true,,659,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,307,0,0
+1738852594260,283,POST Add Contact,201,Created,Users 1-7,text,true,,1101,892,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,283,0,0
+1738852594362,383,POST Add User,201,Created,Users 1-8,text,true,,1278,677,3,3,https://thinking-tester-contact-list.herokuapp.com/users,383,0,0
+1738852594543,275,GET Contact List,200,OK,Users 1-7,text,true,,1098,522,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts,275,0,0
+1738852594746,306,PATCH Update User,200,OK,Users 1-8,text,true,,874,686,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,306,0,0
+1738852594818,275,GET Contact,200,OK,Users 1-7,text,true,,1098,523,4,4,https://thinking-tester-contact-list.herokuapp.com/contacts/,275,0,0
+1738852595053,306,GET User Profile,200,OK,Users 1-8,text,true,,874,522,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,306,0,0
+1738852595093,272,DELETE User,200,OK,Users 1-7,,true,,659,595,4,4,https://thinking-tester-contact-list.herokuapp.com/users/me,272,0,0
+1738852593785,1777,POST Log In User,200,OK,Users 1-9,text,true,,1263,312,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,1777,0,960
+1738852595361,329,POST Add Contact,201,Created,Users 1-8,text,true,,1110,901,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,329,0,0
+1738852595563,338,POST Add User,201,Created,Users 1-9,text,true,,1289,675,3,3,https://thinking-tester-contact-list.herokuapp.com/users,338,0,0
+1738852595690,323,GET Contact List,200,OK,Users 1-8,text,true,,1119,522,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts,323,0,0
+1738852595902,311,PATCH Update User,200,OK,Users 1-9,text,true,,885,679,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,311,0,0
+1738852596023,297,GET Contact,200,OK,Users 1-8,text,true,,1119,523,3,3,https://thinking-tester-contact-list.herokuapp.com/contacts/,297,0,0
+1738852594785,1556,POST Log In User,200,OK,Users 1-10,text,true,,1274,313,3,3,https://thinking-tester-contact-list.herokuapp.com/users/login,1556,0,837
+1738852596213,375,GET User Profile,200,OK,Users 1-9,text,true,,885,522,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,375,0,0
+1738852596322,332,DELETE User,200,OK,Users 1-8,,true,,671,595,3,3,https://thinking-tester-contact-list.herokuapp.com/users/me,332,0,0
+1738852596344,314,POST Add User,201,Created,Users 1-10,text,true,,1290,676,2,2,https://thinking-tester-contact-list.herokuapp.com/users,314,0,0
+1738852596589,418,POST Add Contact,201,Created,Users 1-9,text,true,,1115,906,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,418,0,0
+1738852596659,348,PATCH Update User,200,OK,Users 1-10,text,true,,874,685,2,2,https://thinking-tester-contact-list.herokuapp.com/users/me,348,0,0
+1738852597007,299,GET User Profile,200,OK,Users 1-10,text,true,,874,522,2,2,https://thinking-tester-contact-list.herokuapp.com/users/me,299,0,0
+1738852597007,314,GET Contact List,200,OK,Users 1-9,text,true,,1112,522,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,314,0,0
+1738852597307,303,POST Add Contact,201,Created,Users 1-10,text,true,,1113,904,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,303,0,0
+1738852597322,290,GET Contact,200,OK,Users 1-9,text,true,,1112,523,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts/,290,0,0
+1738852597611,308,GET Contact List,200,OK,Users 1-10,text,true,,1106,522,2,2,https://thinking-tester-contact-list.herokuapp.com/contacts,308,0,0
+1738852597613,317,DELETE User,200,OK,Users 1-9,,true,,655,595,2,2,https://thinking-tester-contact-list.herokuapp.com/users/me,317,0,0
+1738852597919,280,GET Contact,200,OK,Users 1-10,text,true,,1106,523,1,1,https://thinking-tester-contact-list.herokuapp.com/contacts/,280,0,0
+1738852598200,331,DELETE User,200,OK,Users 1-10,,true,,655,595,1,1,https://thinking-tester-contact-list.herokuapp.com/users/me,331,0,0
