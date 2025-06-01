@@ -35,4 +35,4 @@ Proyek ini berisi pengujian performa API Contact List App menggunakan Apache JMe
 2. Buka JMeter dan load file test plan
 3. Jalankan pengujian dan analisis hasil
 
-Untuk detail lebih lanjut, lihat laporan yang tersedia di Link Gdrive [Klik di sini](https://drive.google.com/drive/folders/1BJcx37py0KMoBNFTVJIBv8GTwmUi8tc7).
+Untuk detail lebih lanjut, lihat laporan yang tersedia di Link Gdrive [Klik di sini](https://drive.google.com/drive/folders/1x_PWuBCQVAjW3OgOejVjUWDvatbg39n7).
